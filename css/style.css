@@ -1,0 +1,51 @@
+* {
+    background: #898989;
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 180px;
+    
+
+}
+ 
+.body {
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttons {
+    background: black;
+    color: white;
+    width: 15%;
+padding: 16px;
+border: white;
+}
+
+
+
+.content {
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    background: black;
+    color: white;
+    width: 15%;
+    padding: 16px;
+    border: none;
+    text-align: center;
+}
+
+.h2 {
+    width: 30px;
+    color: blue;
+}
+
+.btn-1 {
+    background: black;
+    color: white;
+    width: 15%;
+    padding: 16px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+}
